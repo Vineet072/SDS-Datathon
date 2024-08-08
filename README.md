@@ -1,0 +1,1 @@
+As part of the SDS course we participated in a datathon , we were given a dataset and we performed data cleaning , data processing , plotting and then making predictions based on the information gathered from the processed data.
